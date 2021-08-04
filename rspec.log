@@ -288,7 +288,7 @@ Failures:
      [31m  expected to find text "378y5s4v6nw9sug06xb7" in "Bookers\nHome Users Books logout\nUser info\nname kd8q090lop introduction b4ufaxshru7m3ps2jw7k\nNew book\nTitle\nOpinion\nBook detail\n57t2a7l8x2 6h1uw b1eirftltvm4ykyfz6al\nCopyRight Infratop.inc"[0m
      [36m# ./spec/system/03_finishing_touches_spec.rb:245:in `block (5 levels) in <main>'[0m
 
-  2) [STEP3] 仕上げのテスト 他人の画面のテスト 他人の投稿詳細画面のテスト サイドバーの確認 他人のユーザ編集画面へのリンクが存在する
+  2) [STEP3] 仕上げのテスト 他人の画面のテスト 他人の投稿詳細画面のテスト サイドバーの確認 他人のユーザ編集画面へのリンクが存在る
      [31mFailure/Error: expect(page).to have_link '', href: edit_user_path(other_user)[0m
      [31m  expected to find link "" with href "/users/1/edit" but there were no matches[0m
      [36m# ./spec/system/03_finishing_touches_spec.rb:248:in `block (5 levels) in <main>'[0m
